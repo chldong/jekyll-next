@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:https://avatar.csdnimg.cn/D/1/9/1_chldong_1588523140.jpg
+avatar: https://avatar.csdnimg.cn/D/1/9/1_chldong_1588523140.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -634,7 +634,7 @@ pace_theme: pace-theme-minimal
 canvas_nest: true
 
 # three_waves
-three_waves: true
+three_waves: false
 
 # canvas_lines
 canvas_lines: false
